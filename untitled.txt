@@ -1,0 +1,20 @@
+https://xcitech.github.io/tutorials/travelers/
+
+
+#not that useful
+https://github.com/xcitech/insurance_ML_model/blob/master/insurance_model_ML.ipynb
+
+
+
+#useful
+https://github.com/vellab/Insurance-claim-prediction/blob/master/RegressionProject.ipynb
+
+https://github.com/Patrick-David/Insurance-Data-Analysis/blob/master/Prudential_notebook.ipynb
+
+
+
+where
+In addition to the information above, the client has provided the following relationships:
+
+Expected effort in hours put in by an agent for incentives provided; and
+Expected increase in chances of renewal, given the effort from the agent.
